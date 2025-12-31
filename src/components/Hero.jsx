@@ -68,7 +68,7 @@ const Hero = () => {
 
   return (
     <>
-        <section  id="hero">
+        <section  id="hero" >
             <h1 className="title">Itos Y Itos</h1>
 
             <img src="/images/hero-left-leaf.png" alt="left leaf" className="left-leaf" />
