@@ -66,7 +66,7 @@ const About = () => {
                 <img src="/images/abt2.png" alt="grid-img-2" />
             </div>
             <div className="md:col-span-3">
-                <img src="/images/abt5.png" alt="grid-img-5" />
+                <img src="/images/mojito.jpg" alt="grid-img-5" />
             </div>
         </div>
         <div className="bottom-grid">
